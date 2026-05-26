@@ -72,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # beauty-vibes
 >>>>>>> 373b293ea51255636a33416fbd97975da70dcca6
+ 
